@@ -352,3 +352,6 @@ MigrationBackup/
 # Production AppSettings
 WebAPI/appsettings.Release.json
 SyncService/appsettings.Release.json
+
+# ScraperEngine
+ScraperEngine/node_modules
